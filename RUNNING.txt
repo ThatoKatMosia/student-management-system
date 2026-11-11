@@ -1,0 +1,7 @@
+Run the Student Management System in 5 steps
+
+1. Install Python 3.9 or newer if it is not already installed.
+2. Open PowerShell in the project folder.
+3. Start the server by running: python server.py
+4. Open http://127.0.0.1:8080 in your web browser.
+5. Add, view, edit, or delete student records. Press Ctrl+C in PowerShell to stop the server.

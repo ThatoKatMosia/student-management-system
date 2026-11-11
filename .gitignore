@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+students.db
+*.db-journal
+*.log
